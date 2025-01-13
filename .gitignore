@@ -1,0 +1,5 @@
+/.next
+/eslint.config.mjs
+/jsconfig.json
+/next.config.mjs
+/node_modules

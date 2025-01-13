@@ -1,0 +1,91 @@
+{
+    "company": {
+        "name": "Global Vehicle Shipping",
+        "description": "Global Vehicle Shipping adalah perusahaan terkemuka yang menyediakan layanan pengiriman kendaraan antar negara dan antar pulau. Dengan pengalaman bertahun-tahun, kami memastikan setiap kendaraan sampai di tujuan dengan aman, tepat waktu, dan dalam kondisi terbaik.",
+        "founded": "2010",
+        "location": "Jakarta, Indonesia",
+        "imagePath" : "/images/hero-graphic.jpg",
+        "buttonScroll" : "Scroll",
+        "contact": {
+            "email": "info@globalshipping.com",
+            "phone": "+62 21 1234 5678",
+            "address": "Jl. Merdeka Raya No. 10, Jakarta"
+        },
+        "socials": {
+            "facebook": "https://facebook.com/globalvehicleshipping",
+            "instagram": "https://instagram.com/globalvehicleshipping",
+            "linkedin": "https://linkedin.com/company/globalvehicleshipping"
+        }
+    },
+    "services": [
+        {
+            "id": 1,
+            "title": "Pengiriman Kendaraan Antar Pulau",
+            "description": "Kami menyediakan layanan pengiriman kendaraan roda dua dan roda empat ke seluruh pulau di Indonesia dengan aman dan efisien.",
+            "icon": "🚢"
+        },
+        {
+            "id": 2,
+            "title": "Pengiriman Kendaraan Antar Negara",
+            "description": "Layanan pengiriman kendaraan internasional dengan dukungan jaringan logistik global yang handal.",
+            "icon": "✈️"
+        },
+        {
+            "id": 3,
+            "title": "Asuransi Pengiriman",
+            "description": "Setiap pengiriman kendaraan kami dilengkapi dengan layanan asuransi untuk memastikan keamanan kendaraan Anda.",
+            "icon": "🛡️"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "feedback": "Pengalaman saya sangat luar biasa dengan Global Vehicle Shipping. Kendaraan saya sampai dengan aman tanpa ada masalah.",
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "name": "Siti Rahmawati",
+            "feedback": "Layanan yang sangat profesional dan cepat. Saya sangat merekomendasikan mereka.",
+            "rating": 4.5
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Andi Pratama",
+            "position": "CEO",
+            "photo": "/images/andi-pratama.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Lisa Herlina",
+            "position": "Head of Operations",
+            "photo": "/images/lisa-herlina.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Michael Tan",
+            "position": "Customer Service Manager",
+            "photo": "/images/michael-tan.jpg"
+        }
+    ],
+    "faqs": [
+        {
+            "id": 1,
+            "question": "Apakah kendaraan saya aman selama pengiriman?",
+            "answer": "Tentu saja. Kami menggunakan metode pengemasan dan pengangkutan terbaik untuk memastikan kendaraan Anda tetap aman selama proses pengiriman."
+        },
+        {
+            "id": 2,
+            "question": "Berapa lama waktu pengiriman kendaraan?",
+            "answer": "Waktu pengiriman tergantung pada tujuan. Pengiriman antar pulau biasanya memakan waktu 3-7 hari kerja, sedangkan pengiriman internasional tergantung pada negara tujuan."
+        },
+        {
+            "id": 3,
+            "question": "Apakah ada layanan pelacakan untuk kendaraan saya?",
+            "answer": "Ya, kami menyediakan layanan pelacakan sehingga Anda dapat memonitor posisi kendaraan Anda selama pengiriman."
+        }
+    ]
+}
